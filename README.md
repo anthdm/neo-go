@@ -11,13 +11,13 @@
   Node and SDK for the <b>NEO</b> blockchain written in the <b>Go</b> language.
 </p>
 
-## [This project now houses in the City Of Zion organisation](https://github.com/CityOfZion/neo-go)
-
 <p align="center">
   <a href="https://travis-ci.org/anthdm/neo-go">
     <img src="https://travis-ci.org/anthdm/neo-go.svg?branch=master">
   </a>
 </p>
+
+## [This project now houses in the City Of Zion organisation](https://github.com/CityOfZion/neo-go)
 
 # Overview
 > This project is currently in alpha and under active development.
